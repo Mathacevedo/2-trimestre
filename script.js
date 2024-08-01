@@ -53,7 +53,7 @@ function respostaSelecionada(opcaoSelecionada) {
 }
 
 function mostraResultado() {
-    caixaPerguntas.textContent = "";
+    caixaPerguntas.textContent = "No futuro";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
 }
